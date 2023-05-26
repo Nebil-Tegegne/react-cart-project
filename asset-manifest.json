@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-cart-project/static/css/main.52779a33.css",
+    "main.js": "/react-cart-project/static/js/main.317bf228.js",
+    "static/media/8.png": "/react-cart-project/static/media/8.56ed19c9d3be44060182.png",
+    "static/media/5.png": "/react-cart-project/static/media/5.cddcdb200bd95ff06338.png",
+    "static/media/6.png": "/react-cart-project/static/media/6.5e128d685d567c2ce13b.png",
+    "static/media/7.png": "/react-cart-project/static/media/7.a3df68942a693c627608.png",
+    "static/media/2.png": "/react-cart-project/static/media/2.bea4e188026545aea577.png",
+    "static/media/3.png": "/react-cart-project/static/media/3.d9472c2b67509f98988a.png",
+    "index.html": "/react-cart-project/index.html",
+    "main.52779a33.css.map": "/react-cart-project/static/css/main.52779a33.css.map",
+    "main.317bf228.js.map": "/react-cart-project/static/js/main.317bf228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52779a33.css",
+    "static/js/main.317bf228.js"
+  ]
+}
